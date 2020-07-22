@@ -1,0 +1,11 @@
+*.csv
+*.xls
+*.txt
+*.pdf
+*.xlsx
+*.png
+newsgroups
+*.cfg
+A4_graphs
+*.gml
+major_us_cities
